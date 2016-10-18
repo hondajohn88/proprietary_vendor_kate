@@ -1,0 +1,246 @@
+{
+  "localId": "350369c2-880c-48f5-a749-84a0439d8dc4",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "a19b2d9b0e0f3b600ccea7a709a9066e9dc60ec6",
+  "platform": 6,
+  "size": 2069144,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "designers": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "titles": {
+    "uk_UA": "Нічне життя",
+    "hi_IN": "उच्च जीवन",
+    "my_MM": "အဆင့်မြင့်ဘဝ",
+    "ms_MY": "Metropolis",
+    "vi_VN": "Nhịp sống",
+    "bn_BD": "হাই লাইফ",
+    "ru_RU": "Роскошь",
+    "ko_KR": "하이 라이프",
+    "pt_BR": "High Life",
+    "ar_EG": "الحياة الراقية",
+    "kn_IN": "ಹೈ ಲೈಫ್‌‌",
+    "iw_IL": "איכות חיים",
+    "zh_TW": "高品質生活",
+    "bn_IN": "হাই লাইফ",
+    "pa_IN": "ਫ਼ਜੂਲ ਖ਼ਰਚੀ ਵਾਲਾ ਜੀਵਨ",
+    "ml_IN": "ഹൈ ലൈഫ്",
+    "en_US": "High Life",
+    "th_TH": "หรูหรา",
+    "tr_TR": "Lüks Hayat",
+    "ne_NP": "उच्च जीवन",
+    "zh_CN": "高品质生活",
+    "ur_IN": "ہائی لائف",
+    "as_IN": "হাই লাইফ",
+    "in_ID": "Metropolis",
+    "ro_RO": "Viaţă la nivel înalt ",
+    "es_US": "Buena vida",
+    "te_IN": "హై లైఫ్",
+    "mr_IN": "उच्च जीवन",
+    "el_GR": "Ξέγνοιαστη ζωή",
+    "pt_PT": "High Life",
+    "uz_UZ": "Hashamatli",
+    "ne_IN": "उच्च जीवन",
+    "fr_FR": "Belle vie",
+    "pl_PL": "Światowe życie",
+    "ta_IN": "உயர் வாழ்வு",
+    "es_ES": "Buena vida",
+    "it_IT": "Bella vita",
+    "gu_IN": "હાઇ લાઇફ",
+    "bo_CN": "ཅུང་ཙམ་རྒྱས་སྤྲོས",
+    "ur_PK": "ہائی لائف",
+    "fa_IR": "زندگی عالی",
+    "or_IN": "ହାଇ ଲାଇଫ୍‌"
+  },
+  "descriptions": {
+    "zh_CN": "勇于追求精致生活的人。",
+    "in_ID": "Bagi pribadi yang berselera tinggi.",
+    "zh_TW": "勇於追求精緻生活的人。",
+    "en_US": "For the person who appreciates the finer things in life.",
+    "pt_PT": "Para aqueles que apreciam as coisas sofisticadas da vida."
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_small_0.jpg",
+      "preview_icons_0.jpg",
+      "preview_clock_2x4_0.png"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_0.jpg",
+      "preview_clock_2x4_0.png"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "79e26a03-e0d9-4eb9-b272-b0a2f7e63765",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "479900d8-63f0-479c-9cea-8d0701daa4a8",
+      "resourceCode": "framework",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "cec2e77c-edb0-49a9-9ba9-116ffb2de171",
+      "resourceCode": "contact",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "1c4426fc-ff51-4fe5-89cb-8ba5331e5e7f",
+      "resourceCode": "mms",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "127c817f-debd-4914-9e13-d36f65d21e09",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c33a4443-26d4-41ae-a635-57fd4605b07c",
+      "resourceCode": "statusbar",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "3e12f291-ecf9-4d3f-a9e8-81919d54fa97",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "2365638d-6eb3-4313-8883-d17a401ff739",
+      "resourceCode": "clock_2x4",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "50656ae3-ffbf-4edd-8eb2-765561e8e017",
+      "resourceCode": "com.android.fileexplorer",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "238bbd6c-fcff-48dd-858d-e1ba0e207066",
+      "resourceCode": "com.android.keyguard",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "69e43df6-6398-4c52-807b-7b765c92193c",
+      "resourceCode": "com.android.settings",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "bbbcaf99-95c5-4aca-b84e-3051d3c7b189",
+      "resourceCode": "com.android.thememanager",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "e056c424-7bd0-4e4e-88ac-97ac87bb3e07",
+      "resourceCode": "com.android.updater",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "92e97cd3-c6b6-4b92-878c-b794aaa7b1f0",
+      "resourceCode": "framework-miui-res",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "43d77e36-009c-44da-8e68-007b9c076536",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "8ce04cb9-562f-4ded-bf0d-965b49f95bbe",
+      "resourceCode": "com.miui.antispam",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c009b9fd-3adc-46c6-870e-106910b84881",
+      "resourceCode": "com.miui.securitycenter",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "341c39b6-5097-44d5-abe2-0794ccea80d0",
+      "resourceCode": "com.miui.cleanmaster",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "35b94399-9c39-42bb-8347-690a8d0d7e5a",
+      "resourceCode": "com.miui.gallery",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "7ebec0f2-b61d-42c5-8cbe-d83ab061b88f",
+      "resourceCode": "com.miui.mipub",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}

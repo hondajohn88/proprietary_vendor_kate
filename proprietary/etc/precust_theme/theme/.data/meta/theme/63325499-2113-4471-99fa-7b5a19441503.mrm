@@ -1,0 +1,260 @@
+{
+  "localId": "63325499-2113-4471-99fa-7b5a19441503",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "566fa9b4832aff06f18e56a1d927a0454117e737",
+  "platform": 6,
+  "size": 1547215,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "designers": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "titles": {
+    "uk_UA": "Рожеве",
+    "hi_IN": "गुलाब",
+    "my_MM": "နှင်းဆီ",
+    "ms_MY": "Bunga ros",
+    "vi_VN": "Hoa hồng",
+    "bn_BD": "গোলাপ",
+    "ru_RU": "Бутон",
+    "ko_KR": "로즈",
+    "pt_BR": "Rosé",
+    "ar_EG": "وردي",
+    "kn_IN": "ಗುಲಾಬಿ",
+    "iw_IL": "רוזה",
+    "zh_TW": "玫瑰紅",
+    "bn_IN": "গোলাপ",
+    "pa_IN": "ਗੁਲਾਬ ਦਾ ਫੁੱਲ",
+    "ml_IN": "റോസ്",
+    "en_US": "Rosé",
+    "th_TH": "กุหลาบ",
+    "tr_TR": "Gül",
+    "ne_NP": "गुलाब",
+    "zh_CN": "玫瑰红",
+    "ur_IN": "گلاب",
+    "as_IN": "গোলাপ",
+    "in_ID": "Mawar",
+    "ro_RO": "Trandafir",
+    "es_US": "Rosa",
+    "te_IN": "రోజ్",
+    "mr_IN": "गुलाब",
+    "el_GR": "Ροζέ",
+    "pt_PT": "Rosé",
+    "uz_UZ": "Atirgul",
+    "ne_IN": "गुलाब",
+    "fr_FR": "Rosé",
+    "pl_PL": "Rosé",
+    "ta_IN": "ரோஜா",
+    "es_ES": "Rosa",
+    "it_IT": "Rosé",
+    "gu_IN": "ગુલાબ",
+    "bo_CN": "སྐྱེས་མ",
+    "ur_PK": "گلاب",
+    "fa_IR": "رُز",
+    "or_IN": "ଗୋଲାପ"
+  },
+  "descriptions": {
+    "zh_CN": "这红色不只是一种颜色，更是一种态度。",
+    "in_ID": "Pink tidak hanya sebatas warna, tetapi juga suatu pernyataan.",
+    "zh_TW": "玫紅色不只是一種顏色，是一種態度。",
+    "en_US": "Pink isn't just a color. It’s an attitude.",
+    "pt_PT": "Rosa não é somente uma cor. É uma atitude."
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_small_0.jpg",
+      "preview_icons_0.jpg",
+      "preview_clock_2x4_0.png"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_0.jpg",
+      "preview_clock_2x4_0.png"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "8c54a2f1-1844-4de3-85dc-2e8fc02c61e1",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "cab61ce3-fd22-45a2-9ee3-42ac21fdc459",
+      "resourceCode": "framework",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "5a0237c0-3f8c-4255-b8df-513801e037fe",
+      "resourceCode": "contact",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "f646f967-abb3-4745-a5be-1c5ef6ab0315",
+      "resourceCode": "mms",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "f37a056a-bff6-477b-aecd-8a7f336b157f",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "66d418dc-581b-4a51-a6c2-21ff3697ec54",
+      "resourceCode": "statusbar",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "102b60c2-9bac-43e3-835c-c857ad05e608",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c6f5a11c-b3f0-474f-aeea-db12468324bc",
+      "resourceCode": "com.android.fileexplorer",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "c4eba3c5-c69a-4e19-b8b6-d08ac22c4401",
+      "resourceCode": "com.android.providers.downloads.ui",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "7b02da28-e5ad-4526-96fb-14870d3e38d8",
+      "resourceCode": "com.android.settings",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "1122dc1c-3f28-4348-af43-5e1557a90ecd",
+      "resourceCode": "com.android.thememanager",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "8bc3d72b-3348-4cc6-bc24-712ac823beab",
+      "resourceCode": "com.android.updater",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "11ceadce-97f7-42a2-ab99-5fab84f9cf03",
+      "resourceCode": "com.miui.gallery",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "72b4b147-99c3-43af-aead-30018c585f85",
+      "resourceCode": "com.miui.securitycenter",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "a6880f78-bdd9-4b85-8c9f-383725e570d5",
+      "resourceCode": "com.miui.weather2",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b8fac94b-3fad-488c-a177-d4a897bd8932",
+      "resourceCode": "framework-miui-res",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "32f3f34d-428f-4f79-9cd7-9a0e71a7e60a",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "18cb631e-46c3-4647-9667-d301709213a8",
+      "resourceCode": "com.miui.antispam",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b4152fb4-ba95-45b5-947b-82777b23d2c9",
+      "resourceCode": "com.miui.networkassistant",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "ba4061ae-66cb-4379-b816-7055725e453f",
+      "resourceCode": "com.miui.cleanmaster",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "5e1a419d-d3e9-49f2-a87c-072a4e4b2d93",
+      "resourceCode": "clock_2x4",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "07fd3024-b6bf-4c96-bdc9-2cd2db866183",
+      "resourceCode": "com.miui.mipub",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}

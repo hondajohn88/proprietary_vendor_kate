@@ -1,0 +1,85 @@
+{
+  "localId": "a95ec7a3-18bf-41a0-ac3a-ec618682084d",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "platform": 4,
+  "size": 62768,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "designers": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "titles": {
+    "hi_IN": "समुद्री हवा",
+    "uk_UA": "Океанський бриз",
+    "my_MM": "ပင်လယ်လေညင်း",
+    "vi_VN": "Biển xanh",
+    "ms_MY": "Bayu Laut",
+    "ru_RU": "Бриз",
+    "ko_KR": "오션 브리즈",
+    "pt_BR": "Ocean Breeze",
+    "ar_EG": "نسيم المحيط",
+    "kn_IN": "ఓషన్ బ్రీజ్",
+    "zh_TW": "海洋微风",
+    "bn_IN": "সমুদ্রের হাওয়া",
+    "ml_IN": "ഓഷ്യൻ ബ്രീസ്",
+    "pa_IN": "ਸਮੁੰਦਰੀ ਹਵਾ",
+    "en_US": "Ocean Breeze",
+    "tr_TR": "Okyanus Esintisi",
+    "th_TH": "มหาสมุทร",
+    "zh_CN": "海洋微風",
+    "as_IN": "সাগৰীয় বতাহ",
+    "ur_IN": "سمندری ہو",
+    "in_ID": "Anak Pantai",
+    "te_IN": "ఓషన్ బ్రీజ్",
+    "es_US": "Brisa del océano",
+    "mr_IN": "महासागरी झुळूक",
+    "pt_PT": "Oceano",
+    "ne_IN": "समुद्र वायु",
+    "fr_FR": "Brise océane",
+    "ta_IN": "கடற்கரை காற்று",
+    "gu_IN": "મહાસાગરની લહેરો",
+    "or_IN": "ଓସିଅନ୍ ବ୍ରିଜ୍",
+    "fa_IR": "نسیم اقیانوس"
+  },
+  "descriptions": {
+    "zh_CN": "微醺的海风和湛蓝的海水，是幸福与舒适的欢畅。",
+    "zh_TW": "微醺的海風和靛藍的海水, 是幸福與舒適的歡暢。",
+    "in_ID": "Deburan ombak, hembusan angin, birunya langit bagaikan jiwa muda yang enerjik dan dinamis.",
+    "en_US": "There is no blue without yellow and orange, there is no boy without hope and happiness.",
+    "pt_PT": "Não há azul sem amarelo e laranja, não há pessoa sem esperança e felicidade."
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_statusbar_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_statusbar_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "affa78f6-dc08-4c52-aa66-4f8025057f53",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}

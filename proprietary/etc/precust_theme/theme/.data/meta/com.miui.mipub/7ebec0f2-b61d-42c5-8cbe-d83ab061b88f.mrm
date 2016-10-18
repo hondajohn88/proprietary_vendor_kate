@@ -1,0 +1,92 @@
+{
+  "localId": "7ebec0f2-b61d-42c5-8cbe-d83ab061b88f",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "e5f5098ec99f1afb9c6148b747415f5b0eb6810a",
+  "platform": 6,
+  "size": 85528,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "designers": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "titles": {
+    "hi_IN": "उच्च जीवन",
+    "uk_UA": "Нічне життя",
+    "my_MM": "အဆင့်မြင့်ဘဝ",
+    "vi_VN": "Nhịp sống",
+    "ms_MY": "Metropolis",
+    "bn_BD": "হাই লাইফ",
+    "ru_RU": "Роскошь",
+    "ko_KR": "하이 라이프",
+    "pt_BR": "High Life",
+    "ar_EG": "الحياة الراقية",
+    "kn_IN": "ಹೈ ಲೈಫ್‌‌",
+    "iw_IL": "איכות חיים",
+    "zh_TW": "高品質生活",
+    "bn_IN": "হাই লাইফ",
+    "ml_IN": "ഹൈ ലൈഫ്",
+    "pa_IN": "ਫ਼ਜੂਲ ਖ਼ਰਚੀ ਵਾਲਾ ਜੀਵਨ",
+    "en_US": "High Life",
+    "tr_TR": "Lüks Hayat",
+    "th_TH": "หรูหรา",
+    "zh_CN": "高品质生活",
+    "ne_NP": "उच्च जीवन",
+    "as_IN": "হাই লাইফ",
+    "ur_IN": "ہائی لائف",
+    "in_ID": "Metropolis",
+    "ro_RO": "Viaţă la nivel înalt ",
+    "te_IN": "హై లైఫ్",
+    "es_US": "Buena vida",
+    "mr_IN": "उच्च जीवन",
+    "pt_PT": "High Life",
+    "el_GR": "Ξέγνοιαστη ζωή",
+    "ne_IN": "उच्च जीवन",
+    "uz_UZ": "Hashamatli",
+    "fr_FR": "Belle vie",
+    "pl_PL": "Światowe życie",
+    "ta_IN": "உயர் வாழ்வு",
+    "es_ES": "Buena vida",
+    "gu_IN": "હાઇ લાઇફ",
+    "it_IT": "Bella vita",
+    "ur_PK": "ہائی لائف",
+    "bo_CN": "ཅུང་ཙམ་རྒྱས་སྤྲོས",
+    "or_IN": "ହାଇ ଲାଇଫ୍‌",
+    "fa_IR": "زندگی عالی"
+  },
+  "descriptions": {
+    "zh_CN": "勇于追求精致生活的人。",
+    "zh_TW": "勇於追求精緻生活的人。",
+    "in_ID": "Bagi pribadi yang berselera tinggi.",
+    "en_US": "For the person who appreciates the finer things in life.",
+    "pt_PT": "Para aqueles que apreciam as coisas sofisticadas da vida."
+  },
+  "builtInThumbnails": {
+    "fallback": []
+  },
+  "builtInPreviews": {
+    "fallback": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "350369c2-880c-48f5-a749-84a0439d8dc4",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}

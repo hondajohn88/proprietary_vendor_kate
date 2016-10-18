@@ -1,0 +1,202 @@
+{
+  "localId": "affa78f6-dc08-4c52-aa66-4f8025057f53",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "687b993bf3eec17bd833600fa05cdb8f05ff5005",
+  "platform": 6,
+  "size": 798975,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "designers": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "titles": {
+    "uk_UA": "Океанський бриз",
+    "hi_IN": "समुद्री हवा",
+    "my_MM": "ပင်လယ်လေညင်း",
+    "ms_MY": "Bayu Laut",
+    "vi_VN": "Biển xanh",
+    "bn_BD": "সমুদ্রের হাওয়া",
+    "ru_RU": "Бриз",
+    "ko_KR": "오션 브리즈",
+    "pt_BR": "Ocean Breeze",
+    "ar_EG": "نسيم المحيط",
+    "kn_IN": "ఓషన్ బ్రీజ్",
+    "iw_IL": "משב קריר",
+    "zh_TW": "海洋微風",
+    "bn_IN": "সমুদ্রের হাওয়া",
+    "pa_IN": "ਸਮੁੰਦਰੀ ਹਵਾ",
+    "ml_IN": "ഓഷ്യൻ ബ്രീസ്",
+    "en_US": "Ocean Breeze",
+    "th_TH": "มหาสมุทร",
+    "tr_TR": "Okyanus Esintisi",
+    "ne_NP": "समुद्र वायु",
+    "zh_CN": "海洋微风",
+    "ur_IN": "سمندری ہو",
+    "as_IN": "সাগৰীয় বতাহ",
+    "in_ID": "Anak Pantai",
+    "ro_RO": "Briză oceanică",
+    "es_US": "Brisa del océano",
+    "te_IN": "ఓషన్ బ్రీజ్",
+    "mr_IN": "महासागरी झुळूक",
+    "el_GR": "Άνεμος ωκεανού",
+    "pt_PT": "Oceano",
+    "uz_UZ": "Okean shabadasi",
+    "ne_IN": "समुद्र वायु",
+    "fr_FR": "Brise océane",
+    "pl_PL": "Bryza oceanu",
+    "ta_IN": "கடற்கரை காற்று",
+    "es_ES": "Brisa del océano ",
+    "it_IT": "Brezza d'oceano",
+    "gu_IN": "મહાસાગરની લહેરો",
+    "bo_CN": "སྐྱེས་པ",
+    "ur_PK": "سمندری ہو",
+    "fa_IR": "نسیم اقیانوس",
+    "or_IN": "ଓସିଅନ୍ ବ୍ରିଜ୍"
+  },
+  "descriptions": {
+    "zh_CN": "微醺的海风和湛蓝的海水，是幸福与舒适的欢畅。",
+    "in_ID": "Deburan ombak, hembusan angin, birunya langit bagaikan jiwa muda yang enerjik dan dinamis.",
+    "zh_TW": "微醺的海風和靛藍的海水, 是幸福與舒適的歡暢。",
+    "en_US": "There is no blue without yellow and orange, there is no boy without hope and happiness.",
+    "pt_PT": "Não há azul sem amarelo e laranja, não há pessoa sem esperança e felicidade."
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_small_0.jpg",
+      "preview_icons_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_lockscreen_0.jpg",
+      "preview_launcher_0.jpg",
+      "preview_launcher_1.jpg",
+      "preview_statusbar_0.jpg",
+      "preview_contact_0.jpg",
+      "preview_mms_0.jpg",
+      "preview_mms_1.jpg",
+      "preview_icons_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "044ad85a-6ce2-46a7-aa1a-a49fa49a0635",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "3388ecf8-7cbc-463d-922d-fdfccbf909b4",
+      "resourceCode": "contact",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "50a747c5-3553-4d73-8dcf-ccfa0afb6ae2",
+      "resourceCode": "mms",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "1d94d5d5-f0f4-4a9b-b6a0-f245e12639c9",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "a95ec7a3-18bf-41a0-ac3a-ec618682084d",
+      "resourceCode": "statusbar",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "5e16ed94-0be5-44dc-b201-634bb566e5d0",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "0883c8b7-b49b-4624-9e5e-2262ef0be479",
+      "resourceCode": "com.android.fileexplorer",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "856bc3b4-33f2-438c-9fc5-b7902eae0301",
+      "resourceCode": "com.android.providers.downloads.ui",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "f8fe7a49-71fb-4d8d-814c-86029851993b",
+      "resourceCode": "com.android.settings",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "15863e41-dd98-4e37-95f7-234b94574dd6",
+      "resourceCode": "com.android.thememanager",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b312cfb6-8d9c-4b32-b7a7-a71e8e1452dc",
+      "resourceCode": "framework-miui-res",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "70536302-de35-46ee-86d2-318e64885783",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "36d78941-aca3-4f9d-bd1d-008b2cb3fba3",
+      "resourceCode": "com.miui.antispam",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "25e385f8-a45f-4084-b82d-dc4b39811241",
+      "resourceCode": "com.miui.securitycenter",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}

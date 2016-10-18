@@ -1,0 +1,92 @@
+{
+  "localId": "72b4b147-99c3-43af-aead-30018c585f85",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "d4293c5f1ee0e2b39196133cc508fdac791f32c9",
+  "platform": 6,
+  "size": 6100,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "designers": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "titles": {
+    "hi_IN": "गुलाब",
+    "uk_UA": "Рожеве",
+    "my_MM": "နှင်းဆီ",
+    "vi_VN": "Hoa hồng",
+    "ms_MY": "Bunga ros",
+    "bn_BD": "গোলাপ",
+    "ru_RU": "Бутон",
+    "ko_KR": "로즈",
+    "pt_BR": "Rosé",
+    "ar_EG": "وردي",
+    "kn_IN": "ಗುಲಾಬಿ",
+    "iw_IL": "רוזה",
+    "zh_TW": "玫瑰紅",
+    "bn_IN": "গোলাপ",
+    "ml_IN": "റോസ്",
+    "pa_IN": "ਗੁਲਾਬ ਦਾ ਫੁੱਲ",
+    "en_US": "Rosé",
+    "tr_TR": "Gül",
+    "th_TH": "กุหลาบ",
+    "zh_CN": "玫瑰红",
+    "ne_NP": "गुलाब",
+    "as_IN": "গোলাপ",
+    "ur_IN": "گلاب",
+    "in_ID": "Mawar",
+    "ro_RO": "Trandafir",
+    "te_IN": "రోజ్",
+    "es_US": "Rosa",
+    "mr_IN": "गुलाब",
+    "pt_PT": "Rosé",
+    "el_GR": "Ροζέ",
+    "ne_IN": "गुलाब",
+    "uz_UZ": "Atirgul",
+    "fr_FR": "Rosé",
+    "pl_PL": "Rosé",
+    "ta_IN": "ரோஜா",
+    "es_ES": "Rosa",
+    "gu_IN": "ગુલાબ",
+    "it_IT": "Rosé",
+    "ur_PK": "گلاب",
+    "bo_CN": "སྐྱེས་མ",
+    "or_IN": "ଗୋଲାପ",
+    "fa_IR": "رُز"
+  },
+  "descriptions": {
+    "zh_CN": "这红色不只是一种颜色，更是一种态度。",
+    "zh_TW": "玫紅色不只是一種顏色，是一種態度。",
+    "in_ID": "Pink tidak hanya sebatas warna, tetapi juga suatu pernyataan.",
+    "en_US": "Pink isn't just a color. It’s an attitude.",
+    "pt_PT": "Rosa não é somente uma cor. É uma atitude."
+  },
+  "builtInThumbnails": {
+    "fallback": []
+  },
+  "builtInPreviews": {
+    "fallback": []
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "63325499-2113-4471-99fa-7b5a19441503",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}

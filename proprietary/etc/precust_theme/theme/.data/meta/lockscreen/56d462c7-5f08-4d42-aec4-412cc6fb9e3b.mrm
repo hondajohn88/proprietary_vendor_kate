@@ -1,0 +1,96 @@
+{
+  "localId": "56d462c7-5f08-4d42-aec4-412cc6fb9e3b",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "43598b7a7b7d2add00094be471af795204fd2917",
+  "platform": 6,
+  "size": 198942,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "designers": {
+    "zh_CN": "小米公司",
+    "en_US": "MIUI"
+  },
+  "titles": {
+    "hi_IN": "गुलाबी लालिमा",
+    "uk_UA": "Рожевий рум'янець",
+    "my_MM": "ပန်းရောင်ကမ္ဘာ",
+    "vi_VN": "Sắc hồng",
+    "ms_MY": "Merah jambu",
+    "bn_BD": "গোলাাপি আভা",
+    "ru_RU": "Румянец",
+    "ko_KR": "핑크 브러쉬",
+    "pt_BR": "Pink Blush",
+    "ar_EG": "وردي ناعم",
+    "kn_IN": "ಪಿಂಕ್‌ ಬ್ಲಷ್‌‌",
+    "iw_IL": "סומק",
+    "zh_TW": "粉色腮紅",
+    "bn_IN": "গোলাাপি আভা",
+    "ml_IN": "പിങ്ക് ബ്ലഷ്",
+    "pa_IN": "ਗੁਲਾਬੀ ਲਾਲੀ",
+    "en_US": "Pink Blush",
+    "tr_TR": "Pembe Allık",
+    "th_TH": "ชมพู",
+    "zh_CN": "粉色腮红",
+    "ne_NP": "गुलाबी ब्लस",
+    "as_IN": "গুলপীয়া আভা",
+    "ur_IN": "نک بلش",
+    "in_ID": "Pink Merona",
+    "ro_RO": "Roz",
+    "te_IN": "పింక్ బ్లష్",
+    "es_US": "Rubor rosado",
+    "mr_IN": "गुलाबी ब्लश",
+    "pt_PT": "Pink Blush",
+    "el_GR": "Ροζ χροιά",
+    "ne_IN": "गुलाबी ब्लस",
+    "uz_UZ": "Pushti-qizil",
+    "fr_FR": "Blush rose",
+    "pl_PL": "Róż",
+    "ta_IN": "பிங்க் நிற வெட்கம்",
+    "es_ES": "Rubor rosado",
+    "gu_IN": "ગુલાબી બ્લશ",
+    "it_IT": "Rosa cipria",
+    "ur_PK": "نک بلش",
+    "bo_CN": "ལྷ་མོ",
+    "or_IN": "ଗୋଲାପୀ ବ୍ଲସ୍",
+    "fa_IR": "گل‌سرخی"
+  },
+  "descriptions": {
+    "zh_CN": "粉红甜蜜，充满了你的生活。",
+    "zh_TW": "粉紅甜蜜，充滿了你的生活。",
+    "in_ID": "Membuat hari-harimu menjadi lebih cerah merona.",
+    "en_US": "Pink up your life!",
+    "pt_PT": "Pinte sua vida de Pink."
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "6def7341-30b3-427b-b702-cccdf3fa201a",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}
